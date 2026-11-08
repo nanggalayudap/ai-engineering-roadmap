@@ -1,0 +1,1 @@
+This folder is my journey to starting learn about AI Engineer, so i start to learn and rewind all about python first
