@@ -23,12 +23,15 @@ print(" ")
 while True:
     choice = int(input("Enter your choice (1-3): "))
     if choice == 1:
+        price = 10000
         print("You have selected 'The Matrix'. Enjoy the movie!")
         break
     elif choice == 2:
+        price = 12000
         print("You have selected 'Inception'. Enjoy the movie!")
         break
     elif choice == 3:
+        price = 15000
         print("You have selected 'Interstellar'. Enjoy the movie!")
         break
     else:
