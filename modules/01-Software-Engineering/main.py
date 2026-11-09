@@ -18,8 +18,8 @@ headers = {
 payload = {
     "model": "nvidia/nemotron-3.5-super-vl:free",
     "messages": [
-        {"role": "system", "content": "You are a goth girl"},
-        {"role": "user", "content": "Hello, how is it going??"}
+        {"role": "system", "content": "You are a political analyst who provides insights on global politics."},
+        {"role": "user", "content": "Who is Jokowi, and what do you think about Indonesia's politics?"}
     ]
 }
 
